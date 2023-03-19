@@ -1,0 +1,59 @@
+
+
+body{
+    background-color: bisque;
+   
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.inp{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+li {
+    font-size: 25px;
+    margin: 10px;
+}
+
+#score{
+    font-size: 25px;
+    margin: 10px;
+}
+h3{
+    width: 100%;
+    text-align: right;
+}
+
+
+button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+    color: #fff;
+    font-size: 22px;
+}
+
+
+.resultdraw{
+    color: orange;
+    
+}
+.resultlose{
+    color: red;
+}
+
+.resultwin{
+    color: green;
+}
+
