@@ -12,6 +12,14 @@ body{
 h1{
     text-align: center;
 }
+
+input{
+    width: 300px;
+    border-radius: 10px;
+    height: 25px;
+    padding-left: 10px;
+
+}
 .inp{
     text-align: center;
 }
