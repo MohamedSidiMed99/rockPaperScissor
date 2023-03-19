@@ -45,15 +45,19 @@ button{
 }
 
 
+
 .resultdraw{
     color: orange;
+    font-size: 30px;
     
 }
 .resultlose{
     color: red;
+    font-size: 30px;
 }
 
 .resultwin{
     color: green;
+    font-size: 30px;
 }
 
